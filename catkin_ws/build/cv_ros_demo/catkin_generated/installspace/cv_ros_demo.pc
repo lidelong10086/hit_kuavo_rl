@@ -1,0 +1,8 @@
+prefix=/home/zcs/catkin_ws/install
+
+Name: cv_ros_demo
+Description: Description of cv_ros_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
