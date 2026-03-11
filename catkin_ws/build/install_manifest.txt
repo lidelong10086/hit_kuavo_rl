@@ -1,0 +1,11 @@
+/home/zcs/catkin_ws/install/_setup_util.py
+/home/zcs/catkin_ws/install/env.sh
+/home/zcs/catkin_ws/install/setup.bash
+/home/zcs/catkin_ws/install/local_setup.bash
+/home/zcs/catkin_ws/install/setup.sh
+/home/zcs/catkin_ws/install/local_setup.sh
+/home/zcs/catkin_ws/install/setup.zsh
+/home/zcs/catkin_ws/install/local_setup.zsh
+/home/zcs/catkin_ws/install/setup.fish
+/home/zcs/catkin_ws/install/local_setup.fish
+/home/zcs/catkin_ws/install/.rosinstall
