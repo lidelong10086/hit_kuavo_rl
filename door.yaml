@@ -1,0 +1,7 @@
+# 注意：使用相对路径即可
+path: ./dataset
+train: images/train
+val: images/val
+
+names:
+  0: handler
