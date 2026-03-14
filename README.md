@@ -4,3 +4,5 @@
 如果打开文件有问题请点击 reloading the page.就好了
 
 如果打开没有东西，请刷新网页
+
+我们三个人的任务分别在三个branch里，main里没有，视频效果都在issue里
